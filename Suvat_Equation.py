@@ -1,3 +1,4 @@
+import numpy as np
 def SuvatEqn():
     m = int(input("Enter the mass: "))
     v0 = int(input("Enter the initial velocity: "))
