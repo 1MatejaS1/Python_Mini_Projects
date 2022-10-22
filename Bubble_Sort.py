@@ -2,7 +2,7 @@ from __future__ import division
 import random
 
 Random=[]
-for i in range (10000):
+for i in range (10000): #range can be changed
     Random.append(random.randrange(1, 101, 1))
 print (Random)
 
